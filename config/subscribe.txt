@@ -15,3 +15,13 @@ https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv
 https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/uk.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/us.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/au.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/fr.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/ca.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/it.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/hk.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/mo.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/tw.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/es.m3u
