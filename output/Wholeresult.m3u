@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="24 Horas Internacional [Geo-blocked]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/24 Horas Internacional [Geo-blocked].png" group-title="🕘️更新时间",2025-02-23 06:30:28
+#EXTINF:-1 tvg-name="24 Horas Internacional [Geo-blocked]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/24 Horas Internacional [Geo-blocked].png" group-title="🕘️更新时间",2025-02-23 18:31:06
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-name="24 Horas Internacional [Geo-blocked]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/24 Horas Internacional [Geo-blocked].png" group-title="uk",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
@@ -15,6 +15,8 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Anand TV (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anand TV (720p) [Not 24/7].png" group-title="uk",Anand TV (720p) [Not 24/7]
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 tvg-name="BBC One South West HD (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC One South West HD (720p).png" group-title="uk",BBC One South West HD (720p)
+https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
 #EXTINF:-1 tvg-name="Beano TV (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Beano TV (720p).png" group-title="uk",Beano TV (720p)
 https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Bridezillas" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bridezillas.png" group-title="uk",Bridezillas
@@ -47,6 +49,12 @@ https://apollo.production-public.tubi.io/live/ac-the-fbi-files.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-name="Gems TV (360p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Gems TV (360p).png" group-title="uk",Gems TV (360p)
 https://lo2-1.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Hadi TV French (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hadi TV French (720p).png" group-title="uk",Hadi TV French (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv8.m3u8
+#EXTINF:-1 tvg-name="Hadi TV Indonesian and Thai (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hadi TV Indonesian and Thai (720p).png" group-title="uk",Hadi TV Indonesian and Thai (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
+#EXTINF:-1 tvg-name="Hadi TV Turkish and Kurdish (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hadi TV Turkish and Kurdish (720p).png" group-title="uk",Hadi TV Turkish and Kurdish (720p)
+https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
 #EXTINF:-1 tvg-name="Hala London (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hala London (1080p).png" group-title="uk",Hala London (1080p)
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 #EXTINF:-1 tvg-name="Horse and Country Free" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Horse and Country Free.png" group-title="uk",Horse and Country Free
@@ -1079,8 +1087,16 @@ https://apollo.production-public.tubi.io/live/ac-great-british-menu.m3u8
 https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
 #EXTINF:-1 tvg-name="Grit Xtra" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Grit Xtra.png" group-title="us",Grit Xtra
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="GTN South Florida (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GTN South Florida (1080p).png" group-title="us",GTN South Florida (1080p)
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-aa4d335124414856b118e943d91132d5/playlist.m3u8
 #EXTINF:-1 tvg-name="Gusto" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Gusto.png" group-title="us",Gusto
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Guyana Music TV (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Guyana Music TV (1080p).png" group-title="us",Guyana Music TV (1080p)
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-59455895b1214d3893e29a4f536fca3d/playlist.m3u8
+#EXTINF:-1 tvg-name="GuyBai TV (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GuyBai TV (1080p).png" group-title="us",GuyBai TV (1080p)
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-d7e7cf219d634e0bbf7d5340b4b537da/playlist.m3u8
+#EXTINF:-1 tvg-name="GuyTube TV (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GuyTube TV (1080p).png" group-title="us",GuyTube TV (1080p)
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f349533/playlist.m3u8
 #EXTINF:-1 tvg-name="Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked].png" group-title="us",Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked]
 https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-name="Hallmark Channel East" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hallmark Channel East.png" group-title="us",Hallmark Channel East
@@ -1158,9 +1174,9 @@ https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
 #EXTINF:-1 tvg-name="Investigation" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Investigation.png" group-title="us",Investigation
 https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ION Mystery (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/ION Mystery (1080p).png" group-title="us",ION Mystery (1080p)
-https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="ION Mystery (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/ION Mystery (1080p).png" group-title="us",ION Mystery (1080p)
 https://apollo.production-public.tubi.io/live/ion-mystery.m3u8
+#EXTINF:-1 tvg-name="ION Mystery (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/ION Mystery (1080p).png" group-title="us",ION Mystery (1080p)
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ION Mystery (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/ION Mystery (1080p).png" group-title="us",ION Mystery (1080p)
 https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 #EXTINF:-1 tvg-name="ION Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/ION Plus.png" group-title="us",ION Plus
@@ -1447,16 +1463,6 @@ http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 https://edge-f.swagit.com/live/miamibeachfl/smil:hd-16x9-1-a/playlist.m3u8
 #EXTINF:-1 tvg-name="Midnight Pulp" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Midnight Pulp.png" group-title="us",Midnight Pulp
 https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-name="Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p).png" group-title="us",Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)
-https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Midpen Media Center Diversity and Culture Channel 75 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Midpen Media Center Diversity and Culture Channel 75 (720p).png" group-title="us",Midpen Media Center Diversity and Culture Channel 75 (720p)
-https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Midpen Media Center Government etc Channel 26 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Midpen Media Center Government etc Channel 26 (720p).png" group-title="us",Midpen Media Center Government etc Channel 26 (720p)
-https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Midpen Media Center Government etc Channel 29 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Midpen Media Center Government etc Channel 29 (720p).png" group-title="us",Midpen Media Center Government etc Channel 29 (720p)
-https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Midpen Media Center Youth Education and Sports Channel 28 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Midpen Media Center Youth Education and Sports Channel 28 (720p).png" group-title="us",Midpen Media Center Youth Education and Sports Channel 28 (720p)
-https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
 #EXTINF:-1 tvg-name="MilitaryTimes (720p) [Geo-blocked]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MilitaryTimes (720p) [Geo-blocked].png" group-title="us",MilitaryTimes (720p) [Geo-blocked]
 https://naviofrequency-sightline-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Millbrae Community Television (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Millbrae Community Television (720p).png" group-title="us",Millbrae Community Television (720p)
@@ -2049,6 +2055,8 @@ http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-name="Sky Michigan TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Sky Michigan TV.png" group-title="us",Sky Michigan TV
 https://cdn-unified-hls.streamspot.com/ingest1/6ec6f5ba47/playlist.m3u8?origin=1
+#EXTINF:-1 tvg-name="Sky TV New York (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Sky TV New York (1080p).png" group-title="us",Sky TV New York (1080p)
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-2cb201942c94460d9356b2c138272263/playlist.m3u8
 #EXTINF:-1 tvg-name="Smart Healthy Green Living (720p) [Geo-blocked]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Smart Healthy Green Living (720p) [Geo-blocked].png" group-title="us",Smart Healthy Green Living (720p) [Geo-blocked]
 https://amg16109-shgliving-amg16109c1-klowdtv-us-2235.playouts.now.amagi.tv/playlist/amg16109-shglivingnetwork-smarthealthygreenliving-klowdtvus/playlist.m3u8
 #EXTINF:-1 tvg-name="SNL Vault" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/SNL Vault.png" group-title="us",SNL Vault
@@ -2189,8 +2197,6 @@ https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
 https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 #EXTINF:-1 tvg-name="The Film Detective" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/The Film Detective.png" group-title="us",The Film Detective
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-name="The Florida Channel (480p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/The Florida Channel (480p).png" group-title="us",The Florida Channel (480p)
-https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="The Grappling Network (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/The Grappling Network (1080p).png" group-title="us",The Grappling Network (1080p)
 https://d1vwakhda3vp6p.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-TheGrapplingNetwork/236.m3u8
 #EXTINF:-1 tvg-name="The Grio (KCKS-LD8) (480p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/The Grio (KCKS-LD8) (480p).png" group-title="us",The Grio (KCKS-LD8) (480p)
@@ -2265,8 +2271,6 @@ https://rdn.essastream.com:3388/live/dajatvlive.m3u8
 https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8
 #EXTINF:-1 tvg-name="TV One Crime & Justice" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TV One Crime & Justice.png" group-title="us",TV One Crime & Justice
 https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Panou (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TV Panou (720p) [Not 24/7].png" group-title="us",TV Panou (720p) [Not 24/7]
-http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="TVE Internacional America (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVE Internacional America (1080p).png" group-title="us",TVE Internacional America (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-name="TVE Star HD (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVE Star HD (1080p).png" group-title="us",TVE Star HD (1080p)
@@ -2387,8 +2391,6 @@ https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 #EXTINF:-1 tvg-name="W14DK-D 14.5 All Sports Television Network" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/W14DK-D 14.5 All Sports Television Network.png" group-title="us",W14DK-D 14.5 All Sports Television Network
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
-#EXTINF:-1 tvg-name="Washington Post TV (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Washington Post TV (720p).png" group-title="us",Washington Post TV (720p)
-https://amg01655-thewashingtonpo-washingtonpost-klowdtv-fxhac.amagi.tv/playlist/amg01655-thewashingtonpo-washingtonpost-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-name="WATN-DT1 (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/WATN-DT1 (1080p).png" group-title="us",WATN-DT1 (1080p)
 https://livevideo01.localmemphis.com/hls/live/2011654/elvs/live.m3u8
 #EXTINF:-1 tvg-name="WaypointTV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/WaypointTV.png" group-title="us",WaypointTV
@@ -2589,8 +2591,6 @@ https://d3p8ecnk6t4t73.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 #EXTINF:-1 tvg-name="3AW Melbourne (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/3AW Melbourne (1080p).png" group-title="au",3AW Melbourne (1080p)
 https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
-#EXTINF:-1 tvg-name="6PR Perth (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/6PR Perth (1080p).png" group-title="au",6PR Perth (1080p)
-https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
 #EXTINF:-1 tvg-name="10 Bold Adelaide (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/10 Bold Adelaide (1080p).png" group-title="au",10 Bold Adelaide (1080p)
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 tvg-name="Angel TV Australia (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Angel TV Australia (720p).png" group-title="au",Angel TV Australia (720p)
@@ -2681,8 +2681,6 @@ https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cannes Lérins TV (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Cannes Lérins TV (1080p).png" group-title="fr",Cannes Lérins TV (1080p)
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
-#EXTINF:-1 tvg-name="CDirect (360p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CDirect (360p).png" group-title="fr",CDirect (360p)
-http://51.254.199.122:8080/cdirectTV/index.m3u8
 #EXTINF:-1 tvg-name="Clubbing TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Clubbing TV.png" group-title="fr",Clubbing TV
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CNBC Europe/World (1080p) [Geo-blocked]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNBC Europe/World (1080p) [Geo-blocked].png" group-title="fr",CNBC Europe/World (1080p) [Geo-blocked]
@@ -2987,6 +2985,8 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 https://live2.parnian.tv/hls/.m3u8
 #EXTINF:-1 tvg-name="Prime Asia TV (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Prime Asia TV (1080p).png" group-title="ca",Prime Asia TV (1080p)
 http://primeasia.selfip.net/Samsung/index.m3u8
+#EXTINF:-1 tvg-name="Prime Canada TV (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Prime Canada TV (720p) [Not 24/7].png" group-title="ca",Prime Canada TV (720p) [Not 24/7]
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 #EXTINF:-1 tvg-name="Qello Concerts by Stingray (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Qello Concerts by Stingray (1080p).png" group-title="ca",Qello Concerts by Stingray (1080p)
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-name="Radio Tele Evangile Sans Limite" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Radio Tele Evangile Sans Limite.png" group-title="ca",Radio Tele Evangile Sans Limite
@@ -3069,6 +3069,8 @@ http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 tvg-name="TV Daja (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TV Daja (1080p).png" group-title="ca",TV Daja (1080p)
 https://rdn.essastream.com:3388/live/dajatvlive.m3u8
+#EXTINF:-1 tvg-name="TV Punjab (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TV Punjab (720p).png" group-title="ca",TV Punjab (720p)
+https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="TVE Internacional America (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVE Internacional America (1080p).png" group-title="ca",TVE Internacional America (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-name="TVE Star HD (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVE Star HD (1080p).png" group-title="ca",TVE Star HD (1080p)
@@ -3321,6 +3323,8 @@ https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="Rai 3 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Rai 3 (720p).png" group-title="it",Rai 3 (720p)
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="RDS Social TV (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/RDS Social TV (720p).png" group-title="it",RDS Social TV (720p)
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 #EXTINF:-1 tvg-name="ReggioTV (480p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/ReggioTV (480p) [Not 24/7].png" group-title="it",ReggioTV (480p) [Not 24/7]
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Renegade Italy (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Renegade Italy (720p).png" group-title="it",Renegade Italy (720p)
@@ -3365,12 +3369,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="South Park Italy (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/South Park Italy (720p).png" group-title="it",South Park Italy (720p)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62bc1f502b70e3000706298e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-name="Sportitalia Live 24" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Sportitalia Live 24.png" group-title="it",Sportitalia Live 24
-https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Sportitalia SoloCalcio" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Sportitalia SoloCalcio.png" group-title="it",Sportitalia SoloCalcio
-https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Sportitalia TV/Sportitalia/SI" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Sportitalia TV/Sportitalia/SI.png" group-title="it",Sportitalia TV/Sportitalia/SI
-https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1 tvg-name="Sportoutdoor.tv" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Sportoutdoor.tv.png" group-title="it",Sportoutdoor.tv
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Squadra Speciale Cobra 11 Italy (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Squadra Speciale Cobra 11 Italy (720p).png" group-title="it",Squadra Speciale Cobra 11 Italy (720p)
@@ -3463,8 +3461,6 @@ https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
 https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleSanDomenico (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TeleSanDomenico (1080p).png" group-title="it",TeleSanDomenico (1080p)
 https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Telesirio Web TV (240p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Telesirio Web TV (240p).png" group-title="it",Telesirio Web TV (240p)
-https://www.telesirio.it/live/stream.m3u8
 #EXTINF:-1 tvg-name="Telestense (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Telestense (720p).png" group-title="it",Telestense (720p)
 https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Teletricolore (480p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Teletricolore (480p) [Not 24/7].png" group-title="it",Teletricolore (480p) [Not 24/7]
@@ -3509,6 +3505,8 @@ https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/play
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
 #EXTINF:-1 tvg-name="Umbria TV (576p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Umbria TV (576p) [Not 24/7].png" group-title="it",Umbria TV (576p) [Not 24/7]
 https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+#EXTINF:-1 tvg-name="UniNettuno University TV (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/UniNettuno University TV (720p).png" group-title="it",UniNettuno University TV (720p)
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 tvg-name="Vera TV (1080p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vera TV (1080p) [Not 24/7].png" group-title="it",Vera TV (1080p) [Not 24/7]
 http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
 #EXTINF:-1 tvg-name="VH1+ Canzoni Italiane (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/VH1+ Canzoni Italiane (720p).png" group-title="it",VH1+ Canzoni Italiane (720p)
@@ -3541,20 +3539,6 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯 (720p).png" group-title="hk",凤凰资讯 (720p)
 http://120.55.49.231:3095/rtp/233.50.200.192:5140
-#EXTINF:-1 tvg-name="Canal Macau Ch. 92 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Canal Macau Ch. 92 (720p) [Not 24/7].png" group-title="mo",Canal Macau Ch. 92 (720p) [Not 24/7]
-https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-name="Directo das Reuniões da Assembleia de Macau (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Directo das Reuniões da Assembleia de Macau (720p).png" group-title="mo",Directo das Reuniões da Assembleia de Macau (720p)
-https://live3.tdm.com.mo/tv/ch22.live/playlist.m3u8
-#EXTINF:-1 tvg-name="Ou-Mun Macau Satellite Ch. 96 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Ou-Mun Macau Satellite Ch. 96 (720p).png" group-title="mo",Ou-Mun Macau Satellite Ch. 96 (720p)
-https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-name="TDM Entertainment Ch. 95 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TDM Entertainment Ch. 95 (720p).png" group-title="mo",TDM Entertainment Ch. 95 (720p)
-https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-name="TDM Info. Macau (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TDM Info. Macau (720p) [Not 24/7].png" group-title="mo",TDM Info. Macau (720p) [Not 24/7]
-https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-name="TDM Sports Ch. 93 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TDM Sports Ch. 93 (720p).png" group-title="mo",TDM Sports Ch. 93 (720p)
-https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-name="立法會直播 (Legislative Council Live) (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/立法會直播 (Legislative Council Live) (720p).png" group-title="mo",立法會直播 (Legislative Council Live) (720p)
-https://live3.tdm.com.mo/tv/ch21.live/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC News Asia Pacific (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC News Asia Pacific (720p).png" group-title="tw",BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-name="Beautiful Life TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Beautiful Life TV.png" group-title="tw",Beautiful Life TV
@@ -3565,68 +3549,12 @@ rtmp://59.124.75.138:1935/sat/tv111
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="DaAi2 (大愛2) (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/DaAi2 (大愛2) (720p).png" group-title="tw",DaAi2 (大愛2) (720p)
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-name="Dali TV (大立電視台) (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dali TV (大立電視台) (720p).png" group-title="tw",Dali TV (大立電視台) (720p)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="EWTN Africa Asia (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/EWTN Africa Asia (720p).png" group-title="tw",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="EWTN Asia-Pacific (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/EWTN Asia-Pacific (720p) [Not 24/7].png" group-title="tw",EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH1 綜合台 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH1 綜合台 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH1 綜合台 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH2 真理台 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH2 真理台 (720p).png" group-title="tw",GOOD TV CH2 真理台 (720p)
-https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH3 真情部落格 短版 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH3 真情部落格 短版 (720p).png" group-title="tw",GOOD TV CH3 真情部落格 短版 (720p)
-https://live.streamingfast.net/osmflivech3.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH5 共享觀點 短版 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH5 共享觀點 短版 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH5 共享觀點 短版 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH6 親近神 詩歌音樂 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH6 親近神 詩歌音樂 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH6 親近神 詩歌音樂 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech6.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH7 禱告大軍 信息 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH7 禱告大軍 信息 (720p).png" group-title="tw",GOOD TV CH7 禱告大軍 信息 (720p)
-https://live.streamingfast.net/osmflivech7.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH9 愛+好醫生 短版 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH9 愛+好醫生 短版 (720p).png" group-title="tw",GOOD TV CH9 愛+好醫生 短版 (720p)
-https://live.streamingfast.net/osmflivech9.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH12 維他命施 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH12 維他命施 (720p).png" group-title="tw",GOOD TV CH12 維他命施 (720p)
-https://live.streamingfast.net/osmflivech12.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH14 真情部落格 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH14 真情部落格 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH14 真情部落格 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech14.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH15 真情之夜 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH15 真情之夜 (720p).png" group-title="tw",GOOD TV CH15 真情之夜 (720p)
-https://live.streamingfast.net/osmflivech15.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH16 葉光明 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH16 葉光明 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH16 葉光明 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech16.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH17 大衛鮑森 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH17 大衛鮑森 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH17 大衛鮑森 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech17.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH18 國際講員 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH18 國際講員 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH18 國際講員 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech18.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH20 恩典時分 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH20 恩典時分 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH20 恩典時分 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech20.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH21 華語講員 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH21 華語講員 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH21 華語講員 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech21.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH24 劉三講古 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH24 劉三講古 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH24 劉三講古 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech24.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH27 空中聖經學院 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH27 空中聖經學院 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH27 空中聖經學院 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech27.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH28 現代詩歌 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH28 現代詩歌 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH28 現代詩歌 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech28.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH29 經典音樂河 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH29 經典音樂河 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH29 經典音樂河 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech29.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH30 天堂敬拜 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH30 天堂敬拜 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH30 天堂敬拜 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech30.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH31 福音佈道音樂會 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH31 福音佈道音樂會 (720p).png" group-title="tw",GOOD TV CH31 福音佈道音樂會 (720p)
-https://live.streamingfast.net/osmflivech31.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH32 特會系列：禱告與轉化 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH32 特會系列：禱告與轉化 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH32 特會系列：禱告與轉化 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech32.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH33 特會系列：研經培靈 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH33 特會系列：研經培靈 (720p).png" group-title="tw",GOOD TV CH33 特會系列：研經培靈 (720p)
-https://live.streamingfast.net/osmflivech33.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH38 特會系列：青年特會 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH38 特會系列：青年特會 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH38 特會系列：青年特會 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech38.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH40 家庭8點檔轉轉發現愛 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH40 家庭8點檔轉轉發現愛 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH40 家庭8點檔轉轉發現愛 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech40.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH45 卡通 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH45 卡通 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH45 卡通 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech45.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH47 牧者頻道 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH47 牧者頻道 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH47 牧者頻道 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech47.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH49 禱告頻道 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH49 禱告頻道 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH49 禱告頻道 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech49.m3u8
-#EXTINF:-1 tvg-name="GOOD TV CH50 國際講員 中文發音 (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/GOOD TV CH50 國際講員 中文發音 (720p) [Not 24/7].png" group-title="tw",GOOD TV CH50 國際講員 中文發音 (720p) [Not 24/7]
-https://live.streamingfast.net/osmflivech50.m3u8
 #EXTINF:-1 tvg-name="Supreme Master TV (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Supreme Master TV (720p).png" group-title="tw",Supreme Master TV (720p)
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-name="TVBS Asia (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS Asia (1080p).png" group-title="tw",TVBS Asia (1080p)
@@ -3679,12 +3607,12 @@ https://cloudvideo.servers10.com:8081/8108/index.m3u8
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 tvg-name="Alcarria TV (576p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alcarria TV (576p) [Not 24/7].png" group-title="es",Alcarria TV (576p) [Not 24/7]
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-name="Anime Zone TV (480p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anime Zone TV (480p).png" group-title="es",Anime Zone TV (480p)
+http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Arabí TV (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Arabí TV (1080p).png" group-title="es",Arabí TV (1080p)
 https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8
 #EXTINF:-1 tvg-name="BBC Drama (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Drama (720p).png" group-title="es",BBC Drama (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-name="Betevé (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Betevé (1080p).png" group-title="es",Betevé (1080p)
-https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 #EXTINF:-1 tvg-name="Burriana TV (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Burriana TV (720p).png" group-title="es",Burriana TV (720p)
 https://www.burrianateve.com/hls/btv.m3u8
 #EXTINF:-1 tvg-name="Cadena Elite (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Cadena Elite (720p) [Not 24/7].png" group-title="es",Cadena Elite (720p) [Not 24/7]
@@ -3787,10 +3715,10 @@ https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Hit Tv" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hit Tv.png" group-title="es",Hit Tv
 http://185.189.225.149/HitTV/index.m3u8
+#EXTINF:-1 tvg-name="Imás TV (1080p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Imás TV (1080p) [Not 24/7].png" group-title="es",Imás TV (1080p) [Not 24/7]
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1 tvg-name="Intercomarcal TV (576p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Intercomarcal TV (576p) [Not 24/7].png" group-title="es",Intercomarcal TV (576p) [Not 24/7]
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
-#EXTINF:-1 tvg-name="Kidz Atresmedia (720p) [Geo-blocked]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Kidz Atresmedia (720p) [Geo-blocked].png" group-title="es",Kidz Atresmedia (720p) [Geo-blocked]
-https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 #EXTINF:-1 tvg-name="KTO (404p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/KTO (404p) [Not 24/7].png" group-title="es",KTO (404p) [Not 24/7]
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-name="La 1 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/La 1 (720p).png" group-title="es",La 1 (720p)
@@ -3815,6 +3743,8 @@ https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-name="LiraTV (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/LiraTV (720p).png" group-title="es",LiraTV (720p)
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1 tvg-name="Locomotion TV (480p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Locomotion TV (480p) [Not 24/7].png" group-title="es",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-name="Logos TV (1080p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Logos TV (1080p) [Not 24/7].png" group-title="es",Logos TV (1080p) [Not 24/7]
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
 #EXTINF:-1 tvg-name="Logos TV Estudio (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Logos TV Estudio (720p) [Not 24/7].png" group-title="es",Logos TV Estudio (720p) [Not 24/7]
@@ -3957,6 +3887,8 @@ https://streamingtvi.gestec-video.com/hls/unesd.m3u8
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 #EXTINF:-1 tvg-name="Verbena TV (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Verbena TV (1080p).png" group-title="es",Verbena TV (1080p)
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+#EXTINF:-1 tvg-name="Visión 6 TV (720p) [Not 24/7]" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Visión 6 TV (720p) [Not 24/7].png" group-title="es",Visión 6 TV (720p) [Not 24/7]
+https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
 #EXTINF:-1 tvg-name="XPTV1 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XPTV1 (720p).png" group-title="es",XPTV1 (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 tvg-name="XPTV2 (720p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XPTV2 (720p).png" group-title="es",XPTV2 (720p)
